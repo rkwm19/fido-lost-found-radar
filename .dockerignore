@@ -1,0 +1,12 @@
+lostfound.tar
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+venv
+.venv
+.env
+uploads
+datasets
